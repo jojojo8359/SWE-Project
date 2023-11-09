@@ -1,0 +1,4 @@
+repository "Educational Game@SWE_Group_2@cloud"
+  path "/"
+    br "/main"
+    co "/main"
