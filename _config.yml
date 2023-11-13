@@ -23,6 +23,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: false
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
