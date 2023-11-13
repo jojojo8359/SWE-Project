@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "The Team"
+    url: /team/
+  - title: "Play"
+    url: /play/
+  - title: "Deliverables"
+    url: /deliverables/
+  - title: "Resources"
+    url: /resources/
