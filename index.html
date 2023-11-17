@@ -3,9 +3,26 @@ layout: splash
 permalink: /
 header:
     overlay_color: "#5e616c"
+    overlay_image: /assets/images/dummy_1600x524.png
     actions:
-        label: "<i class='fas fa-play'></i> Play"
+      - label: "<i class='fas fa-gamepad'></i> Play Now"
         url: "/play/"
 excerpt: >
-    Foo bar
+    A math-based castle siege game created in Unity<br />
+    <small>Designed for grades 7-8</small>
+feature_row:
+  - image_path: /assets/images/dummy_500x300.png
+    alt: "Feature 1"
+    title: "Feature 1"
+    excerpt: "Feature 1 Description"
+  - image_path: /assets/images/dummy_500x300.png
+    alt: "Feature 2"
+    title: "Feature 2"
+    excerpt: "Feature 2 Description"
+  - image_path: /assets/images/dummy_500x300.png
+    alt: "Feature 3"
+    title: "Feature 3"
+    excerpt: "Feature 3 Description"
 ---
+
+{% include feature_row id="feature_row" %}
