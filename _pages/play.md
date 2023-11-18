@@ -3,4 +3,10 @@ permalink: /play/
 title: "Play"
 ---
 
-Info on playing/downloading goes here
+## Play Online
+
+Coming soon!
+
+## Download
+
+[<i class='fas fa-download'></i> Download Now](https://github.com/jojojo8359/SWE-Project/releases){: .btn .btn--primary .btn--x-large}
