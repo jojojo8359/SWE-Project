@@ -5,12 +5,12 @@ title: "The Team"
 
 ## Aidan Javidpour
 
-![Aidan image]({{ site.url }}{{ site.baseurl }}/assets/images/dummy_500x300.png)
+![Aidan image]({{ site.url }}{{ site.baseurl }}/assets/images/profiles/aidan_j.jpeg){:height="450px" width="300px"}
 
 Role: Software Developer
 
-<!-- <a href="https://www.linkedin.com"><i class='fab fa-fw fa-linkedin'></i></a>
-<a href="https://www.github.com"><i class='fab fa-fw fa-github-square'></i></a> -->
+<a href="https://www.linkedin.com/in/aidan-javidpour-7791a522a/"><i class='fab fa-fw fa-linkedin'></i></a>
+<a href="https://github.com/aidanjavidpour"><i class='fab fa-fw fa-github-square'></i></a>
 
 
 ## Joel Keaton
