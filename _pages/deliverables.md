@@ -13,11 +13,11 @@ Coming soon! <i class='fas fa-fw fa-wrench' />
 
 ## Original Project Description
 
-<embed src="/assets/deliverables/project-description.pdf" type="application/pdf" />
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/deliverables/project-description.pdf" type="application/pdf" />
 
 ## Requirements
 
-<embed src="/assets/deliverables/DraftProjectRequirements.pdf" type="application/pdf" />
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/deliverables/DraftProjectRequirements.pdf" type="application/pdf" />
 
 ## Use Case Diagram
 
@@ -59,7 +59,7 @@ Coming soon! <i class='fas fa-fw fa-wrench' />
 
 ## Bibliography
 
-Our bibliography can be found on the <a href="/resources">Resources</a> page.
+Our bibliography can be found on the <a href="{{ site.url }}{{ site.baseurl }}/resources">Resources</a> page.
 
 ## Meeting Notes
 
