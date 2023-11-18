@@ -9,4 +9,4 @@ title: "Resources"
 
 ## In-Game Assets
 
-N/A
+Coming soon! <i class='fas fa-fw fa-wrench' />

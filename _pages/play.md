@@ -5,7 +5,7 @@ title: "Play"
 
 ## Play Online
 
-Coming soon!
+Coming soon! <i class='fas fa-fw fa-wrench' />
 
 ## Download
 
