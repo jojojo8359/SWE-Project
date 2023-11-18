@@ -29,6 +29,8 @@ Role: Software Developer
 
 Role: Software Developer
 
+<i class='fab fa-fw fa-linkedin'></i>
+<i class='fab fa-fw fa-github-square'></i>
 <!-- <a href="https://www.linkedin.com/"><i class='fab fa-fw fa-linkedin'></i></a>
 <a href="https://www.github.com/"><i class='fab fa-fw fa-github-square'></i></a> -->
 
