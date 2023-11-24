@@ -39,6 +39,11 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Main Menu");
     }
+    // This function is only here when returning from a level 
+    // so the music can reset properly!
+    public void levelBackButton() {
+        SceneManager.LoadScene("Init");
+    }
 
     public void quitGame()
     {
@@ -47,11 +52,9 @@ public class MainMenu : MonoBehaviour
     public void level1()
     {
         SceneManager.LoadScene("Level1");
-        //Cursor.visible = false;
     }
     public void level2()
     {
         SceneManager.LoadScene("Level2");
-        //Cursor.visible = false;
     }
 }
