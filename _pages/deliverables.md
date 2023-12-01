@@ -39,7 +39,7 @@ Coming soon! <i class='fas fa-fw fa-wrench' />
 
 ## SRS (v1)
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/deliverables/SRSDraft.pdf" type="application/pdf" />
 
 ## SRS (v2)
 
