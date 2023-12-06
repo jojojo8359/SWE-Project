@@ -47,7 +47,7 @@ Role: Software Developer
 
 ## Leon Zeltser
 
-![Leon image]({{ site.url }}{{ site.baseurl }}/assets/images/profiles/leon_z.jpg){:height="300px" width="300px"}
+![Leon image]({{ site.url }}{{ site.baseurl }}/assets/images/profiles/leon_z.jpg){:height="398px" width="300px"}
 
 Role: Software Developer
 
