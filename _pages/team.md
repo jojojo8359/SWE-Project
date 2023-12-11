@@ -25,7 +25,7 @@ Role: Software Developer
 
 ## Anthony Kitowicz
 
-![Anthony image]({{ site.url }}{{ site.baseurl }}/assets/images/dummy_500x300.png)
+![Anthony image]({{ site.url }}{{ site.baseurl }}/assets/images/profiles/anthony_k.png){:height="284px" width="300px"}
 
 Role: Software Developer
 

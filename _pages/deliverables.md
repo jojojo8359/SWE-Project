@@ -5,11 +5,16 @@ title: "Deliverables"
 
 ## Project Background
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+Linear equations are a fundamental component of math that are taught and utilised throughout the education system. However, drilling problems in classwork and homework can be boring and unfulfilling. Enter MathMunition: Equation Siege - a fun and educational game designed to teach concepts of linear equations to 7th-8th grade students.
 
 ## Project Description
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+MathMunition is an educational video game which has the look and feel of a 2D platform style game, written in C# and developed using Unity. The goal of the game is to teach linear equations to 7th and 8th grade students, and to be both engaging and educational.
+
+In the game, players will enter linear equations into a field, then will fire a cannon. The cannonball will travel in the trajectory of the equation. The visuals in the game, including flying cannonballs, will make it easy for the player to visualize these equations. Linear equations in the game are specifically in slope-intercept form, since it is generally the most commonly used format to write them. Levels come with a time limit for completion and a score derived from the number of cannonballs fired, with a bonus added for completing the level, encouraging students to solve equations quicker and more efficiently.
+
+Linear equations in slope-intercept form are the only topic that this game teaches. MathMunition will not be a replacement for learning linear equations, but rather a companion to help students learn about and be more excited about the subject.
+
 
 ## Original Project Description
 
@@ -43,19 +48,19 @@ Coming soon! <i class='fas fa-fw fa-wrench' />
 
 ## SRS (v2)
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/deliverables/SWE-SRS-FINAL.pdf" type="application/pdf" />
 
 ## Prototype
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+The finished prototype can be found on the <a href="{{ site.url }}{{ site.baseurl }}/play">Play</a> page.
 
 ## Prototype Video
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+<video width="100%" controls><source src="{{ site.url }}{{ site.baseurl }}/assets/deliverables/Mathmunition_Video.mp4" type="video/mp4"></video>
 
 ## Presentation
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/deliverables/SWEPresentationPDF.pdf" type="application/pdf" />
 
 ## Bibliography
 

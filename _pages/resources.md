@@ -9,4 +9,4 @@ title: "Resources"
 
 ## In-Game Assets
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+Everything found in-game was created by the team!
