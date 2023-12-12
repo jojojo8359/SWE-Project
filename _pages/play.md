@@ -5,7 +5,7 @@ title: "Play"
 
 ## Play Online
 
-Coming soon! <i class='fas fa-fw fa-wrench' />
+[<i class='fas fa-gamepad'></i> Play]({{ site.url }}{{ site.baseurl }}/assets/game_webgl/index.html){: .btn .btn--primary .btn--x-large}
 
 ## Download
 
